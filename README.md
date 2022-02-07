@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 ![](https://hit.yhype.me/github/profile?user_id=12596485) ![views](https://komarev.com/ghpvc/?username=reslear)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=reslear&show_icons=true&theme=dark&layout=compact&hide_title=true)
-![views](https://komarev.com/ghpvc/?username=reslear)
-![](https://hit.yhype.me/github/profile?user_id=12596485)
 
 <!--
 **reslear/reslear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
