@@ -1,8 +1,11 @@
 
 
-1. install bash 
-2. install oh-my-szh
-3. install [fnm](https://github.com/Schniz/fnm)
+1. install xcode
+1. install home-brew
+1. install oh-my-szh
+1. install [fnm](https://github.com/Schniz/fnm)
+1. install nodejs
+1. install mongodb
 
 Open vs-code `Shift+Cmd+P`, paste `workbench.action.installCommandLine` and execute
 
