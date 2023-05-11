@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="851" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="880" class="">
     <defs>
         <style/>
     </defs>
@@ -46,9 +46,10 @@
                 <div class="row fill-width">
                     <section>
                         <div class="field wrap">
-                            <div class="label label-flex">🙏 Q&amp;A <div class="label-right">2</div></div>
                             <div class="label label-flex">❓ Q&amp;A <div class="label-right">1</div></div>
+                            <div class="label label-flex">🙏 zNo Longer Maintained - Q&amp;A <div class="label-right">1</div></div>
                             <div class="label label-flex">💡 Ideas <div class="label-right">1</div></div>
+                            <div class="label label-flex">🙏 Q&amp;A <div class="label-right">1</div></div>
                             <div class="label label-flex">💡 Ideas &amp; Feature Requests <div class="label-right">1</div></div>
                         </div>
                     </section>
