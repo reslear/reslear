@@ -48,8 +48,9 @@
                         <div class="field wrap">
                             <div class="label label-flex">💡 Ideas <div class="label-right">3</div></div>
                             <div class="label label-flex">🙏 Q&amp;A <div class="label-right">3</div></div>
-                            <div class="label label-flex">❓ Q&amp;A <div class="label-right">2</div></div>
                             <div class="label label-flex">#️⃣ General <div class="label-right">1</div></div>
+                            <div class="label label-flex">❓ Questions and Help <div class="label-right">1</div></div>
+                            <div class="label label-flex">❓ Q&amp;A <div class="label-right">1</div></div>
                             <div class="label label-flex">💻 Developer Support <div class="label-right">1</div></div>
                             <div class="label label-flex">💡 Ideas &amp; Feature Requests <div class="label-right">1</div></div>
                         </div>
